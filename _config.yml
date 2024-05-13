@@ -10,3 +10,5 @@ aux_links: # remove if you don't want this link to appear on your pages
 # Enable or disable the side/mobile menu globally
 # Nav menu can also be selectively enabled or disabled using page variables or the minimal layout
 nav_enabled: true
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
